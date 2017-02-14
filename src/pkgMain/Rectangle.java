@@ -14,10 +14,14 @@ public class Rectangle {
 	public double getWidth() {
 		return Width;
 	}
+	public double Area() {
+		return Length * Width;
+	}
 	
-	public double Area()
+	
 	{
+	
 		// TODO Implement Area() function with the correct formula
-		return 0;
-	}	
+		
+	}
 }
